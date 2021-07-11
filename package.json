@@ -1,0 +1,20 @@
+{
+  "name": "the-planets",
+  "version": "1.0.0",
+  "description": "A Frontend mentor challenge",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss style.css -w"
+  },
+  "keywords": [
+    "html",
+    "sass",
+    "css",
+    "js"
+  ],
+  "author": "Naim",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
